@@ -1,0 +1,13 @@
+[Content]
+
+Route
+    Directory = Routes
+    File = MyRoute/MyRoute.csv
+
+Train
+    Directory = Trains
+    File = MyTrain/MyTrain.csv
+
+Object
+    Directory = Objects
+    File = MyObject/MyObject.b3d
